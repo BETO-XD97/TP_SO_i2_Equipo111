@@ -1,0 +1,8 @@
+e- 
+git clone https://github.com/LuisTulis/TP_SO_i2_Equipo111.git          (Clonar el repositorio)
+
+git add .                            |
+git commit -m "push"                 | Agregar los cambios
+git push                             |  
+
+git pull origin (obtener el "NuevoDato.txt")           Actualizar el repositorio local
