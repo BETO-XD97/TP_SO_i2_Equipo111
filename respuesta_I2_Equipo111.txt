@@ -6,3 +6,8 @@ git commit -m "push"                 | Agregar los cambios
 git push                             |  
 
 git pull origin (obtener el "NuevoDato.txt")           Actualizar el repositorio local
+
+
+Rocabado Roberto
+Lemiña Gonzalo
+Tulis Curra Luis
