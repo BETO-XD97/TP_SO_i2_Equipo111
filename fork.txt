@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Tulis Curra Luis
 192.168.0.5
 11:55 am
+=======
+Gonzalo Lemiña ip->192.168.0.19 Hora->11:33
+>>>>>>> 7755fc4c8bcd8f78531aab44df71606e44442a5a
