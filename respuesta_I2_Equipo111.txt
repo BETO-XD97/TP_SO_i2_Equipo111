@@ -8,10 +8,6 @@ Si puede, luego de que ALFA haya hecho sus modificaciones
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
 el fork?
 No, no pierdo ningun dato
-
->>>>>>> 7755fc4c8bcd8f78531aab44df71606e44442a5a
-
-<<<<<<< HEAD
 e- 
 git clone https://github.com/LuisTulis/TP_SO_i2_Equipo111.git          (Clonar el repositorio)
 
